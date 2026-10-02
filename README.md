@@ -111,13 +111,9 @@ Copy number changes through two processes:
 
 Growth follows Monod kinetics. The full ODE system is integrated with `scipy.integrate.solve_ivp` for each serial dilution cycle.
 
-## Key references
-
-- Pettersson, M. E. *et al.* (2005) — recombination probability model
-- Pal, C. & Andersson, D. I. — multiplicative fitness cost model for GDA burden
 
 ## Citation
 
 If you use this model, please cite:
 
-> Kupke J, Fang Y, Ghazisaeedi F, Hanke D, Schreiber F, Tedin K, Nordholt N & Fulde M. Gene amplification mediated heteroresistance delays fixation of stable resistance but rescues small populations under antibiotic stress. (2026)
+> Kupke J, Fang Y, Ghazisaeedi F, Hanke D, Schreiber F, Tedin K, Nordholt N & Fulde M. Population size modulates the transition from gene amplification-mediated heteroresistance to stable resistance. (2026)
