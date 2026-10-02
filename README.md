@@ -2,7 +2,7 @@
 
 ODE-based population dynamics model for gene duplication–amplification (GDA) mediated heteroresistance, accompanying the paper:
 
-> **Gene amplification mediated heteroresistance delays fixation of stable resistance but rescues small populations under antibiotic stress**
+> **Population size modulates the transition from gene amplification-mediated heteroresistance to stable resistance.**
 > Johannes Kupke\*, Yuwen Fang\*, Fereshteh Ghazisaeedi, Dennis Hanke, Frank Schreiber, Karsten Tedin, Niclas Nordholt† & Marcus Fulde†
 
 ## Overview
