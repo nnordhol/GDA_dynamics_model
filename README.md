@@ -115,5 +115,6 @@ Growth follows Monod kinetics. The full ODE system is integrated with `scipy.int
 ## Citation
 
 If you use this model, please cite:
-
+> https://doi.org/10.1038/s44259-026-00280-x
+> 
 > Kupke J, Fang Y, Ghazisaeedi F, Hanke D, Schreiber F, Tedin K, Nordholt N & Fulde M. Population size modulates the transition from gene amplification-mediated heteroresistance to stable resistance. (2026)
